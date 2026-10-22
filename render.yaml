@@ -19,7 +19,7 @@ services:
         sync: false
 
       - key: DB_POSTGRESDB_PORT
-        value: "14134"
+        value: "14135"
 
       - key: DB_POSTGRESDB_DATABASE
         sync: false
